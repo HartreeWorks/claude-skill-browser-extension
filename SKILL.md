@@ -4,7 +4,9 @@ description: Create Chrome/Chromium browser extensions for users without coding 
 ---
 
 **Author:** Peter Hartree
+
 **Repository:** https://github.com/HartreeWorks/claude-skill-browser-extension
+
 **Blog post:** [Shortcuts for any web app](https://wow.pjh.is/journal/shortcuts-for-any-web-app)
 
 ---
